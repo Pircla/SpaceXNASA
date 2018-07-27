@@ -1,0 +1,25 @@
+.presentation{
+  font-size: 100px;
+  color:#1165CA;
+  font-family:Courier, monospace;
+
+}
+body{
+    background-image: url("../images/desert.jpg");
+    background-size: cover;
+}
+.dog img{
+  display: block;
+  margin:auto;
+}
+.contact{
+font-size: 20px;
+color:#FFFFFF;
+margin-bottom: 100px;
+}
+.contact:hover{
+font-size:30px;
+}
+.dog img:hover{
+  opacity: 0.0;
+}
